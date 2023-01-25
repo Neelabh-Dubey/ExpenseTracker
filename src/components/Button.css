@@ -1,0 +1,12 @@
+button{
+    background-color: rgb(40, 40, 90);
+    height: 40px;
+    padding: 0 50px;
+    margin: 50px 50%;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+button:hover{
+    background-color: aqua;
+}
