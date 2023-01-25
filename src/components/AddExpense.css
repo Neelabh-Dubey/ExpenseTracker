@@ -1,0 +1,9 @@
+.add-expense{
+    width: 300px;
+    text-align: center;
+    color: whitesmoke;
+    padding: 10px;
+    background-color: black;
+    margin: 30px auto;
+    border-radius: 10px;
+}

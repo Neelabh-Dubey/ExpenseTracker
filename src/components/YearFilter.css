@@ -1,0 +1,15 @@
+.filter-div{
+    text-align: center;
+}
+
+
+span{
+    font-weight: bolder;
+    margin: 25px 10px;
+}
+
+select{
+    margin: 25px 10px;
+    border-radius: 5px;
+}
+

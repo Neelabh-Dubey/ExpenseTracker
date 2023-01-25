@@ -1,0 +1,27 @@
+.month{
+    height: 130px;
+    width: 70px;
+}
+
+.container{
+    height: 80%;
+    width: 15px;
+    border: 1px solid rgb(10, 16, 2);
+    border-radius: 2px;
+    margin: auto auto;
+    position: relative;
+}
+
+.bar{
+    width: 100%;
+    background-color: brown;
+    border-radius: 2px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.label{
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+}

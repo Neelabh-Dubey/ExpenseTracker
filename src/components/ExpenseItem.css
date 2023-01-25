@@ -1,0 +1,23 @@
+.parent{
+    display: flex;
+    height: 50px;
+    background-color: darkslategray;
+    border-radius: 10px;
+    justify-content:space-between;
+    align-items: center;
+    margin: 10px;
+}
+
+.date{
+    padding-left: 50px;
+}
+
+.amt{
+    padding-right: 50px;
+}
+
+
+
+
+
+
